@@ -1,0 +1,191 @@
+Sample #	SampleID		Sent From	Name	Covid	Status	symptomatic	Ct	Batch	Symptomatic v. Asymptomatic
+1	20S-077VI0122		Occ health	Jackson, Lauren	pos	asymptomatic_highVL	asymptomatic_highVL	18.73	1	Symptomatic
+2	20S-093VI0437		Occ health	Jackson, Lauren	pos	asymptomatic_lowVL	asymptomatic_lowVL	30.9	1	Asymptomatic
+3	20S-077VI0182		Occ health	Valiente, Victor O	pos	asymptomatic_highVL	asymptomatic_highVL	16.43	1	Symptomatic
+4	20S-095VI0091		Occ health	Valiente, Victor O	pos	asymptomatic_lowVL	asymptomatic_lowVL	35	1	Symptomatic
+5	20S-087VI0284		Occ health	Evangelista, Teresita	pos	asymptomatic_highVL	asymptomatic_highVL	17.55	1	Symptomatic
+6	20S-106VI0273		Occ health	Evangelista, Teresita	pos	asymptomatic_lowVL	asymptomatic_lowVL	33.9	1	Symptomatic
+7	20S-097VI0390		Occ health	Uribe, Maria	pos	asymptomatic_lowVL	asymptomatic_lowVL	35.6	1	Symptomatic
+8	20S-079VI0499		Occ health	Uribe, Maria	pos	asymptomatic_highVL	asymptomatic_highVL	12.51	1	Symptomatic
+9	20S-097VI0464		Occ health	Tsai, Emily Bao 	pos	asymptomatic_lowVL	asymptomatic_lowVL	31.5	1	Asymptomatic
+10	20S-083VI0462		Occ health	Tsai, Emily Bao 	pos	asymptomatic_highVL	asymptomatic_highVL	17.06	1	Symptomatic
+11	20S-107VI0127		Occ health	Salazar, Catalina	pos	asymptomatic_lowVL	asymptomatic_lowVL	36.5	1	Symptomatic
+12	20S-092VI0122		Occ health	Salazar, Catalina	pos	asymptomatic_highVL	asymptomatic_highVL	25.0	1	Symptomatic
+13	20S-099VI134		Occ health	Recinos, Nathaly	pos	asymptomatic_lowVL	asymptomatic_lowVL	37	1	Asymptomatic
+14	20S-083VI0561		Occ health	Recinos, Nathaly	pos	asymptomatic_highVL	asymptomatic_highVL	16.95	1	Symptomatic
+15	20S-107VI0108		Occ health	Recinos, Nathaly	pos	asymptomatic_lowVL	asymptomatic_lowVL	36.3	1	Asymptomatic
+16	20S-074VI0098		Occ health	Banes, Lariz	pos	asymptomatic_lowVL	asymptomatic_lowVL	36.12	1	Symptomatic
+17	20S-099VI0155		Occ health	Banes, Lariz	pos	asymptomatic_lowVL	asymptomatic_lowVL	37.2	1	Asymptomatic
+18	20S-107VI0117		Occ health	Banes, Lariz	pos	asymptomatic_lowVL	asymptomatic_lowVL	38.3	1	Asymptomatic
+19	20S-112VI0689		Occ health	Salinas, Jacqleen	pos	asymptomatic_lowVL	asymptomatic_lowVL	32.88	1	Symptomatic
+20	20S-092VI0155		Occ health	Salinas, Jacqleen	pos	asymptomatic_highVL	asymptomatic_highVL	18.4	1	Symptomatic
+21	20S-082VI0180		Occ health	Boehlke, Kylan	pos	asymptomatic_highVL	asymptomatic_highVL	23.57	1	Symptomatic
+22	20S-097VI0254		Occ health	Boehlke, Kylan	pos	asymptomatic_lowVL	asymptomatic_lowVL	37.2	1	Symptomatic
+23	20S-079VI0423		Occ health	Damo, Dale	pos	asymptomatic_highVL	asymptomatic_highVL	26.47	1	Symptomatic
+24	20S-093VI0326		Occ health	Damo, Dale	pos	asymptomatic_lowVL	asymptomatic_lowVL	34.7	1	Symptomatic
+25	20S-079VI0323		Occ health	Sharma, Rahul Prakash	pos	asymptomatic_highVL	asymptomatic_highVL	15.17	1	Symptomatic
+26	20S-094VI0112		Occ health	Sharma, Rahul Prakash	pos	asymptomatic_lowVL	asymptomatic_lowVL	36.3	1	Asymptomatic
+27	20S-099VI0140		Occ health	Sharma, Rahul Prakash	pos	asymptomatic_lowVL	asymptomatic_lowVL	33.3	1	Asymptomatic
+28	20S-083VI0291		Occ health	Dronamraju, Deepti Vishnu 	pos	asymptomatic_highVL	asymptomatic_highVL	22.11	1	Symptomatic
+29	20S-110VI0104		Occ health	Dronamraju, Deepti Vishnu 	pos	asymptomatic_lowVL	asymptomatic_lowVL	38.1	1	Asymptomatic
+30	20S-097VI0187		Occ health	Dronamraju, Deepti Vishnu 	pos	asymptomatic_lowVL	asymptomatic_lowVL	31.2	1	Symptomatic
+31	20S-097VI0143		Occ health	Ngo-Mora, Linda	pos	asymptomatic_lowVL	asymptomatic_lowVL	36.4	1	Asymptomatic
+32	20S-084VI0537		Occ health	Ngo-Mora, Linda	pos	asymptomatic_lowVL	asymptomatic_lowVL	36.09	1	Symptomatic
+33	20S-086VI0231		Occ health	Jernick, Helene 	pos	asymptomatic_lowVL	asymptomatic_lowVL	34.93	1	Symptomatic
+34	20S-097VI0247		Occ health	Jernick, Helene 	pos	asymptomatic_lowVL	asymptomatic_lowVL	38.3	1	Asymptomatic
+35	20S-100VI0402		Occ health	Douthit, Rebecca P	pos	asymptomatic_lowVL	asymptomatic_lowVL	35.4	1	Symptomatic
+36	20S-086VI0228		Occ health	Douthit, Rebecca P	pos	asymptomatic_highVL	asymptomatic_highVL	19.93	1	Symptomatic
+37	20S-101VI0218		Occ health	Palma-Trujillo, Oscar Noel	pos	asymptomatic_lowVL	asymptomatic_lowVL	36.99	1	Symptomatic
+38	20S-087VI0566		Occ health	Palma-Trujillo, Oscar Noel	pos	asymptomatic_highVL	asymptomatic_highVL	25.93	1	Symptomatic
+39	20S-112VI0619		Occ health	Palma-Trujillo, Oscar Noel	pos	asymptomatic_lowVL	asymptomatic_lowVL	36.0	1	Symptomatic
+40	20S-108VI0138		Occ health	Uboh, Aniekan-Michael	pos	asymptomatic_lowVL	asymptomatic_lowVL	35.4	1	Asymptomatic
+41	20S-083VI0077		Occ health	Uboh, Aniekan-Michael	pos	asymptomatic_highVL	asymptomatic_highVL	27	1	Symptomatic
+42	20S-097VI0200		Occ health	Uboh, Aniekan-Michael	pos	asymptomatic_lowVL	asymptomatic_lowVL	36.5	1	Asymptomatic
+43	20S-098VI0450		Occ health	Chavez, Brianna	pos	asymptomatic_lowVL	asymptomatic_lowVL	34.9	1	Symptomatic
+44	20S-093VI0332		Occ health	Chavez, Brianna	pos	asymptomatic_lowVL	asymptomatic_lowVL	38.2	1	Symptomatic
+45	20S-099VI0461		Occ health	Chona, Deepak	pos	asymptomatic_lowVL	asymptomatic_lowVL	30.2	1	Asymptomatic
+46	20S-107VI0317		Occ health	Chona, Deepak	pos	asymptomatic_highVL	asymptomatic_highVL	28.5	1	Asymptomatic
+47	20S-094VI0474		Occ health	Suzuka, Aaron 	pos	asymptomatic_lowVL	asymptomatic_lowVL	34	1	Asymptomatic
+48	20H-078VI0209		Occ health	Suzuka, Aaron 	pos	asymptomatic_highVL	asymptomatic_highVL	23.65	1	Not in Epic
+49	20S-082VI0062		Occ health	Salmasi, Vafi	pos	asymptomatic_highVL	asymptomatic_highVL	19	1	Symptomatic
+50	20S-097VI0025		Occ health	Salmasi, Vafi	pos	asymptomatic_lowVL	asymptomatic_lowVL	37	1	Asymptomatic
+51	20S-114VI0600		Occ health	Panaligan, Nina-Rizza 	pos	asymptomatic_highVL	asymptomatic_highVL	29.2	1	Asymptomatic
+52	20S-107VI0120		Occ health	Panaligan, Nina-Rizza 	pos	asymptomatic_lowVL	asymptomatic_lowVL	30.5	1	Asymptomatic
+53	20S-084VI0499		Occ health	Panaligan, Nina-Rizza 	pos	asymptomatic_highVL	asymptomatic_highVL	26.6	1	Symptomatic
+54	20S-100VI0199		Occ health	Panaligan, Nina-Rizza 	pos	asymptomatic_highVL	asymptomatic_highVL	29.2	1	Asymptomatic
+55	20S-100VI0202		Occ health	Calderon, Oscar Enrique 	pos	asymptomatic_lowVL	asymptomatic_lowVL	38.2	1	Symptomatic
+56	20S-085VI0257		Occ health	Calderon, Oscar Enrique 	pos	asymptomatic_lowVL	asymptomatic_lowVL	34	1	Symptomatic
+57	20S-094VI0195		Occ health	Brennan, Andrew	pos	asymptomatic_highVL	asymptomatic_highVL	29	1	Asymptomatic
+58	20S-079VI0580		Occ health	Brennan, Andrew	pos	asymptomatic_highVL	asymptomatic_highVL	19.58	1	Symptomatic
+59	20S-073VI0082		Occ health	Leach, Felicia	pos	asymptomatic_highVL	asymptomatic_highVL	20.69	1	Symptomatic
+60	20S-091VI0348		Occ health	Leach, Felicia	pos	asymptomatic_lowVL	asymptomatic_lowVL	38.3	1	Symptomatic
+61	20S-090VI0620		Occ health	Cortez, Ninel	pos	asymptomatic_highVL	asymptomatic_highVL	25.14	1	Symptomatic
+62	20S-083VI0043		Occ health	Cortez, Ninel	pos	asymptomatic_highVL	asymptomatic_highVL	24.7	1	Symptomatic
+63	20S-092VI0299		Occ health	Wong, Joshua M	pos	asymptomatic_highVL	asymptomatic_highVL	35.2	1	Symptomatic
+64	20S-109VI0102		Occ health	Wong, Joshua M	pos	asymptomatic_lowVL	asymptomatic_lowVL	22	1	Symptomatic
+65	20S-105VI0135		Occ health	Alves, Olivia	pos	asymptomatic_highVL	asymptomatic_highVL	29.2	1	Symptomatic
+66	20S-112VI0487		Occ health	Alves, Olivia	pos	asymptomatic_lowVL	asymptomatic_lowVL	33.5	1	Symptomatic
+67	20S-105VI0219		Occ health	Reza, Kazi 	pos	asymptomatic_lowVL	asymptomatic_lowVL	38.5	1	Asymptomatic
+68	20S-099VI0503		Occ health	Reza, Kazi 	pos	asymptomatic_highVL	asymptomatic_highVL	29.1	1	Symptomatic
+69	20S-077VI0493		Occ health	Denoyer, Rachel	pos	asymptomatic_highVL	asymptomatic_highVL	29.1	1	Symptomatic
+70	20S-093VI0428		Occ health	Denoyer, Rachel	pos	asymptomatic_lowVL	asymptomatic_lowVL	35.5	1	Asymptomatic
+71	20S-097VI0278		Occ health	Peng, Cynthia Ran 	pos	asymptomatic_highVL	asymptomatic_highVL	27.25	1	Symptomatic
+72	20S-082VI0185		Occ health	Peng, Cynthia Ran 	pos	asymptomatic_highVL	asymptomatic_highVL	22.14	1	Symptomatic
+73	20S-113VI0801		Occ health	Morales, Lestell	pos	asymptomatic_lowVL	asymptomatic_lowVL	34.8	1	Symptomatic
+74	20S-098VI0206		Occ health	Morales, Lestell	pos	asymptomatic_lowVL	asymptomatic_lowVL	33.3	1	Symptomatic
+75	20S-114VI1180		Occ health	Rosas, Agnes	pos	asymptomatic_lowVL	asymptomatic_lowVL	36.8	1	Symptomatic
+76	20S-095VI0072		Occ health	Rosas, Agnes	pos	asymptomatic_highVL	asymptomatic_highVL	19.2	1	Symptomatic
+77	20S-098VI0442		Occ health	Ochoa, Beth K	pos	asymptomatic_lowVL	asymptomatic_lowVL	32.8	1	Symptomatic
+78	20S-093VI0350		Occ health	Ochoa, Beth K	pos	asymptomatic_lowVL	asymptomatic_lowVL	35.8	1	Symptomatic
+79	20S-105VI0204		Occ health	Beas, Oribel	pos	asymptomatic_lowVL	asymptomatic_lowVL	33.9	1	Asymptomatic
+80	20S-092VI0262		Occ health	Beas, Oribel	pos	asymptomatic_lowVL	asymptomatic_lowVL	32.6	1	Symptomatic
+81	20S-100VI0195		Occ health	Hanks, Mary 	pos	asymptomatic_lowVL	asymptomatic_lowVL	38.5	1	Asymptomatic
+82	20S-087VI0230		Occ health	Hanks, Mary 	pos	asymptomatic_lowVL	asymptomatic_lowVL	33.5	1	Symptomatic
+83	20S-096VI0128		Occ health	Martinez, Marcelina 	pos	asymptomatic_lowVL	asymptomatic_lowVL	31.2	1	Symptomatic
+84	20S-110VI0082		Occ health	Martinez, Marcelina 	pos	asymptomatic_lowVL	asymptomatic_lowVL	38	1	Asymptomatic
+85	20S-099VI0489		Occ health	Morris, Elizabeth	pos	asymptomatic_highVL	asymptomatic_highVL	22.3	1	Symptomatic
+86	20S-114VI0802		Occ health	Morris, Elizabeth	pos	asymptomatic_lowVL	asymptomatic_lowVL	37.0	1	Symptomatic
+87	20S-114VI0421		Occ health	Otoole, Jennifer 	pos	asymptomatic_lowVL	asymptomatic_lowVL	32.7	1	Asymptomatic
+88	20S-107VI0088		Occ health	Otoole, Jennifer 	pos	asymptomatic_lowVL	asymptomatic_lowVL	30.4	1	Asymptomatic
+89	20S-106VI0226		Occ health	Perez, Laura	pos	asymptomatic_lowVL	asymptomatic_lowVL	38.9	1	Asymptomatic
+90	20S-098VI0288		Occ health	Perez, Laura	pos	asymptomatic_lowVL	asymptomatic_lowVL	32.4	1	Symptomatic
+91	20S-077VI0485		Occ health	Benedict, Audrey	pos	asymptomatic_highVL	asymptomatic_highVL	17.48	1	Symptomatic
+92	20S-098VI0103		Occ health	Benedict, Audrey	pos	asymptomatic_lowVL	asymptomatic_lowVL	37.3	1	Asymptomatic
+93	20S-093VI0336		Occ health	Benedict, Audrey	pos	asymptomatic_lowVL	asymptomatic_lowVL	37.1	1	Asymptomatic
+94	20S-111VI0655		Occ health	Benedict, Audrey	pos	asymptomatic_lowVL	asymptomatic_lowVL	35.4	1	Asymptomatic
+95	20S-116VI0138		Occ health	Benedict, Audrey	pos	asymptomatic_lowVL	asymptomatic_lowVL	35.4	1	Asymptomatic
+96	20S-087VI0110		Occ health	Lal, Arunesh	pos	asymptomatic_highVL	asymptomatic_highVL	16	2	Asymptomatic
+97	20S-095VI0034		Occ health	Coburn, Maria	pos	asymptomatic_lowVL	asymptomatic_lowVL	34.3	2	Asymptomatic
+98	20S-078VI0584		Occ health	Sable-Smith, Alexander "Alex"	pos	asymptomatic_highVL	asymptomatic_highVL	23.8	2	Symptomatic
+99	20S-077VI0107		Occ health	Sandoval, Kevin 	pos	asymptomatic_highVL	asymptomatic_highVL	19.75	2	Symptomatic
+100	20S-090VI0278		Occ health	Vital, Jesus 	pos	asymptomatic_highVL	asymptomatic_highVL	21.55	2	Symptomatic
+101	20S-100VI0370		Occ health	Gamino, Diana 	pos	asymptomatic_lowVL	asymptomatic_lowVL	36.1	2	Asymptomatic
+102	20S-111VI1279		Occ health	Houpis, Jacob	pos	asymptomatic_lowVL	asymptomatic_lowVL	38.2	2	Asymptomatic
+103	20S-112VI0390		Occ health	Marin, Justin	pos	asymptomatic_lowVL	asymptomatic_lowVL	38.4	2	Asymptomatic
+104	20S-112VI0894		Occ health	Patel, Divyaben	pos	asymptomatic_lowVL	asymptomatic_lowVL	38.2	2	Asymptomatic
+105	20S-112VI1213		Occ health	Sosa Monge, Saira	pos	asymptomatic_lowVL	asymptomatic_lowVL	39.3	2	Asymptomatic
+106	20S-113VI0010		Occ health	Lowe, Carolyn	pos	asymptomatic_lowVL	asymptomatic_lowVL	38.0	2	Asymptomatic
+107	20S-113VI0174		Occ health	Aung, Khin	pos	asymptomatic_highVL	asymptomatic_highVL	21.6	2	Asymptomatic
+108	20S-113VI0563		Occ health	Saddi, Albert T 	pos	asymptomatic_lowVL	asymptomatic_lowVL	38.4	2	Asymptomatic
+109	20S-113VI0572		Occ health	Salalila, Marlon 	pos	asymptomatic_lowVL	asymptomatic_lowVL	33.8	2	Asymptomatic
+110	20S-113VI0575		Occ health	Kaae, Kaipo Watanabe	pos	asymptomatic_lowVL	asymptomatic_lowVL	38.0	2	Asymptomatic
+111	20S-114VI0837		Occ health	Cox, Rachel	pos	asymptomatic_highVL	asymptomatic_highVL	26.3	2	Asymptomatic
+112	20S-114VI0986		Occ health	Sharifnejad, Sheila	pos	asymptomatic_lowVL	asymptomatic_lowVL	31.4	2	No history In EPIC
+113	20S-114VI1270		Occ health	Gouveia, Ann L 	pos	asymptomatic_lowVL	asymptomatic_lowVL	38.2	2	Asymptomatic
+114	20S-114VI1303		Occ health	Hernandez, Victor 	pos	asymptomatic_lowVL	asymptomatic_lowVL	36.9	2	Asymptomatic
+115	20S-114VI1879		Occ health	Johnson, Anita 	pos	asymptomatic_lowVL	asymptomatic_lowVL	33.5	2	Asymptomatic
+116	20S-115VI0255		Occ health	Abrams, Geoffrey	pos	asymptomatic_lowVL	asymptomatic_lowVL	38.1	2	Asymptomatic
+117	20S-115VI0697		Occ health	Raj, Christina 	pos	asymptomatic_lowVL	asymptomatic_lowVL	38.0	2	Asymptomatic
+118	20S-115VI1046		Occ health	De Araujo, Monique 	pos	asymptomatic_lowVL	asymptomatic_lowVL	38.3	2	Asymptomatic
+119	20S-117VI0092		Stanford	1	pos	sick	covid+,symptomatic	25.1	2	
+120	20S-117VI0171		Stanford Hospital	2	pos	sick	covid+,symptomatic	23.4	2	
+121	20S-115VI1430		Stanford Hospital	3	pos	sick	covid+,symptomatic	23.7	2	
+122	20H-112VI0067		El Camino Hospital	4	pos	sick	covid+,symptomatic	16.0	2	
+123	20S-121VI1451		Stanford Hospital	5	pos	sick	covid+,symptomatic	35.1	2	
+124	20H-121VI0001		San Mateo Medical Center	6	pos	sick	covid+,symptomatic	29.2	2	
+125	20S-120VI0450		Tri-Valley COVID Testing	7	pos	sick	covid+,symptomatic	20.6	2	
+126	20H-119VI0131		San Mateo Medical Center	8	pos	sick	covid+,symptomatic	26.7	2	
+127	20H-122VI0002		San Mateo Medical Center	9	pos	sick	covid+,symptomatic	28.4	2	
+128	20H-122VI0313		Washington Hospital Laboratory	10	pos	sick	covid+,symptomatic	37.9	2	
+129	20H-122VI0037		San Mateo Medical Center	11	pos	sick	covid+,symptomatic	28.4	2	
+130	20H-122VI0038		San Mateo Medical Center	12	pos	sick	covid+,symptomatic	34.4	2	
+131	20S-121VI0752		Tri-Valley COVID Testing	13	pos	sick	covid+,symptomatic	38.3	2	
+132	20H-123VI0025		San Mateo Medical Center	14	pos	sick	covid+,symptomatic	31.1	2	
+133	20H-124VI0002		San Mateo Medical Center	15	pos	sick	covid+,symptomatic	24.1	2	
+134	20S-123VI0320		Stanford Hospital	16	pos	sick	covid+,symptomatic	32.3	2	
+135	20S-124VI0291		Stanford Hospital	17	pos	sick	covid+,symptomatic	18.1	2	
+136	20H-124VI0001		San Mateo Medical Center	18	pos	sick	covid+,symptomatic	26.1	2	
+137	20H-122VI0208		San Mateo Medical Center	19	pos	sick	covid+,symptomatic	27.0	2	
+138	20H-122VI0212		San Mateo Medical Center	20	pos	sick	covid+,symptomatic	22.5	2	
+139	20S-122VI0254		Tri-Valley COVID Testing	21	pos	sick	covid+,symptomatic	37.3	2	
+140	20S-124VI0158		Stanford Hospital	22	pos	sick	covid+,symptomatic	32.05	2	
+141	20S-123VI0268		Stanford Hospital	23	pos	sick	covid+,symptomatic	28.99	2	
+142	20H-125VI0018		EL CAMINO HOSPITAL	24	pos	sick	covid+,symptomatic	23.36	2	
+143	20S-126VI0170		Tri-Valley COVID Testing	25	pos	sick	covid+,symptomatic	12.14	2	
+144	20S-126VI0175		Tri-Valley COVID Testing	26	pos	sick	covid+,symptomatic	18.75	2	
+145	20S-127VI0236		Tri-Valley COVID Testing	27	pos	sick	covid+,symptomatic	37.2	2	
+146	20S-127VI0698		SECH	28	pos	sick	covid+,symptomatic	32.3	2	
+147	20S-127VI0618		SECH	29	pos	sick	covid+,symptomatic	37	2	
+148	20H-126VI0185		Stanford	30	pos	sick	covid+,symptomatic	24.53	2	
+149	20S-125VI0300		Occ health	1	neg	healthy	covid-	0	2	
+150	20S-125VI0459		Occ health	2	neg	healthy	covid-	0	2	
+151	20S-125VI0307		Occ health	3	neg	healthy	covid-	0	2	
+152	20S-125VI0390		Occ health	4	neg	healthy	covid-	0	2	
+153	20S-125VI0271		Occ health	5	neg	healthy	covid-	0	2	
+154	20S-125VI0589		Occ health	6	neg	healthy	covid-	0	2	
+155	20S-125VI0472		Occ health	7	neg	healthy	covid-	0	2	
+156	20S-125VI0331		Occ health	8	neg	healthy	covid-	0	2	
+157	20S-125VI0452		Occ health	9	neg	healthy	covid-	0	2	
+158	20S-125VI0428		Occ health	10	neg	healthy	covid-	0	2	
+159	20S-125VI0434		Occ health	11	neg	healthy	covid-	0	2	
+160	20S-125VI0318		Occ health	12	neg	healthy	covid-	0	2	
+161	20S-125VI0310		Occ health	13	neg	healthy	covid-	0	2	
+162	20S-125VI0545		Occ health	14	neg	healthy	covid-	0	2	
+163	20S-125VI0337		Occ health	15	neg	healthy	covid-	0	2	
+164	20S-125VI0143		Occ health	16	neg	healthy	covid-	0	2	
+165	20S-125VI0120		Occ health	17	neg	healthy	covid-	0	2	
+166	20S-125VI0948		Occ health	18	neg	healthy	covid-	0	2	
+167	20S-125VI0907		Occ health	19	neg	healthy	covid-	0	2	
+168	20S-125VI0624		Occ health	20	neg	healthy	covid-	0	2	
+169	20S-126VI0659		Occ health	21	neg	healthy	covid-	0	2	
+170	20S-126VI0680		Occ health	22	neg	healthy	covid-	0	2	
+171	20S-126V0638		Occ health	23	neg	healthy	covid-	0	2	
+172	20S-126V0616		Occ health	24	neg	healthy	covid-	0	2	
+173	20S-126V0648		Occ health	25	neg	healthy	covid-	0	2	
+174	20S-126V0796		Occ health	26	neg	healthy	covid-	0	2	
+175	20S-126V0645		Occ health	27	neg	healthy	covid-	0	2	
+176	20S-126V0808		Occ health	28	neg	healthy	covid-	0	2	
+177	20S-126V0768		Occ health	29	neg	healthy	covid-	0	2	
+178	20S-126V0821		Occ health	30	neg	healthy	covid-	0	2	
+179	20S-126V0779		Occ health	31	neg	healthy	covid-	0	2	
+180	20S-126V0813		Occ health	32	neg	healthy	covid-	0	2	
+181	20S-126V0831		Occ health	33	neg	healthy	covid-	0	2	
+182	20S-126V0837		Occ health	34	neg	healthy	covid-	0	2	
+183	20S-126V0827		Occ health	35	neg	healthy	covid-	0	2	
+184	20S-126V0667		Occ health	36	neg	healthy	covid-	0	2	
+185	20S-126V0597		Occ health	37	neg	healthy	covid-	0	2	
+186	20S-126V0735		Occ health	38	neg	healthy	covid-	0	2	
+187	20S-126V0746		Occ health	39	neg	healthy	covid-	0	2	
+188	20S-126V0802		Occ health	40	neg	healthy	covid-	0	2	
+189	20S-126V0789		Occ health	41	neg	healthy	covid-	0	2	
+190	20S-126V0859		Occ health	42	neg	healthy	covid-	0	2	
